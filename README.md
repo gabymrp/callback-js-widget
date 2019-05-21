@@ -5,7 +5,7 @@ A callback javascript widget with these functions:
   c. Validation on each field (name, phone number, email address)
   
   a. Minimized:
-![image](https://user-images.githubusercontent.com/15613312/58091101-f4bf7180-7bf2-11e9-997a-fc34dd59eca5.png)
+  ![image](https://user-images.githubusercontent.com/15613312/58091255-55e74500-7bf3-11e9-94ba-09c14b044057.png)
 
   b. Maximized
-![image](https://user-images.githubusercontent.com/15613312/58091188-305a3b80-7bf3-11e9-92b5-6c70cc77123c.png)
+![image](https://user-images.githubusercontent.com/15613312/58091221-48ca5600-7bf3-11e9-8ee9-ad17fec67b09.png)
